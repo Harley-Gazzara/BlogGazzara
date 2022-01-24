@@ -1,0 +1,10 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>Harley's Blog</title>
+</head>
+
+<body>
+<h1>Harley's Blog</h1>
+</body>
+</html>
